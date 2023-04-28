@@ -1,8 +1,8 @@
 ### About Me👋
 
-👨‍💻 Frontend Web Developer
-💼 Open To Job Opportunities
-🌎 www.aobasar.com
+👨‍💻 Frontend Web Developer<br>
+💼 Open To Job Opportunities<br>
+🌎 www.aobasar.com<br>
 
 <!--
 **aobasar/aobasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
