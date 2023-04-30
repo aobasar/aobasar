@@ -1,7 +1,4 @@
-### About Me👋
-
 # AHMET O. BASAR
-
 👨‍💻 Frontend Web Developer<br>
 💼 Open To Job Opportunities<br>
 🌎 www.aobasar.com<br>
