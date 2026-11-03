@@ -29,8 +29,8 @@ a local-AI archive for meeting recordings. Happy to walk through any of it.
 
 ## Before this
 
-- Led the **USS Midway Museum** website rebuild, which grew its users by **90%**.
 - Web developer on **Meta**'s global business site, then a specialist at **Apple**.
+- Led the **USS Midway Museum** website rebuild, which grew its users by **90%**.
 - At 17, took a family tech company commercial as Chairman of the Board and grew its internet
   business to **100+ customers in six countries**.
 - Building for the web since **1997**, when I wrote my first site by hand in Notepad.
