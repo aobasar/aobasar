@@ -35,9 +35,20 @@ a local-AI archive for meeting recordings. Happy to walk through any of it.
   business to **100+ customers in six countries**.
 - Building for the web since **1997**, when I wrote my first site by hand in Notepad.
 
+## Hackathons and talks
+
+- **Meta Global AI Developer Hackathon** (2026, solo) — built Kokobubu.
+- **Building for Good Hackathon**, UC San Diego (2026) — City Pulse, team of six; I gave the
+  team's presentation.
+- **VibeCraft Slopathon** (2026) — team CultureCall, an AI culture brief and song concept.
+- **DEVxSD Game Jam** (2026) — built WucuWucu with Claude in about 20 minutes, then took it to
+  Mac, iPhone, iPad and Apple TV on TestFlight.
+- **Talks:** MindMapAI at the DEVxSD Lightning Showcase and San Diego AI Showcase #9 (2026);
+  DAM San Diego (2018).
+
 ## Ask me about
 
 Fast prototyping with AI · orchestrating models and agents · the guardrails that keep them
-honest · hackathons · product design. I've spoken at DEVxSD and the San Diego AI Showcase, and I'll bring a live demo.
+honest · hackathons · product design. Got an event? I'll bring a live demo.
 
 Building something, or stuck on something? [hello@aobasar.com](mailto:hello@aobasar.com)
